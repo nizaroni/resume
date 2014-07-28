@@ -6,10 +6,17 @@
   "bugs": {
     "url": "https://github.com/khalifenizar/resume/issues"
   },
+  "dependencies": {
+    "resume-cli": "^0.3.2"
+  },
   "homepage": "https://github.com/khalifenizar/resume",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/khalifenizar/resume.git"
+  },
+  "scripts": {
+    "start": "resume serve",
+    "help": "resume --help"
   }
 }
