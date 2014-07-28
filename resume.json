@@ -15,5 +15,14 @@
       "github": "khalifenizar",
       "twitter": "khalifenizar"
     }
-  }
+  },
+  "education": [
+    {
+      "institution": "University of Puerto Rico",
+      "startDate": "2004-08-01",
+      "endDate": "2010-06-30",
+      "area": "Computer Science",
+      "studyType": "Bachelor"
+    }
+  ]
 }
