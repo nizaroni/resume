@@ -1,0 +1,19 @@
+{
+  "bio": {
+    "firstName": "Nizar",
+    "lastName": "Khalife Iglesias",
+    "email": {
+      "personal": "khalifenizar@gmail.com"
+    },
+    "summary": "",
+    "location": {
+      "city": "Miami",
+      "countryCode": "US",
+      "state": "Florida"
+    },
+    "profiles": {
+      "github": "khalifenizar",
+      "twitter": "khalifenizar"
+    }
+  }
+}
