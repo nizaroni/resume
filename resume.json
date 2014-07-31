@@ -27,5 +27,34 @@
       "area": "Computer Science",
       "studyType": "Bachelor"
     }
+  ],
+  "skills": [
+    {
+      "name": "Web development",
+      "level": "Expert",
+      "keywords": [
+        "Git",
+        "JavaScript (Node.js and browser)",
+        "Python",
+        "PHP"
+      ]
+    }, {
+      "name": "Databases",
+      "keywords": [
+        "Redis",
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL"
+      ]
+    }, {
+      "name": "Communication",
+      "keywords": [
+        "Courtesy",
+        "Empathy",
+        "Humor",
+        "Clarity",
+        "Listening"
+      ]
+    }
   ]
 }
