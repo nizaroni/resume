@@ -40,7 +40,13 @@
       "website": "http://arbimon.com",
       "startDate": "2009-01-17",
       "endDate": "2010-10-19",
-      "summary": ""
+      "summary": "Designed and developed an iOS app that enabled the use of iPod touches as low-power recording devices that record on a configurable schedule and send the recordings to a server via antenna for audio analysis. As a research assistant I also supported my colleagues in solving problems in other areas of the project such as databases, version control, server scripting and configuration.",
+      "highlights": [
+        "Developed an iOS app that enabled recording of animals in the wild",
+        "Over 1,000,000 recordings gathered",
+        "Wrote comprehensive app user guide for biologists",
+        "Introduced version control (Subversion) into the team's workflow"
+      ]
     }, {
       "company": "Technology Division - University of Puerto Rico",
       "position": "Web developer / Webmaster",
