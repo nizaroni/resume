@@ -53,7 +53,12 @@
       "website": "http://www.uprrp.edu/dtaa/",
       "startDate": "2007-07-01",
       "endDate": "2008-12-18",
-      "summary": ""
+      "summary": "Added and edited content in the university's Web site. Developed my first two real Web applications in a voting system for student council elections and a public campus crime log (both using PHP and MySQL)",
+      "highlights": [
+        "Developed voting system for student body council",
+        "Developed public campus crime log that is still in use today (http://uprrp.edu/crimelog/)",
+        "First experiments with raw browser HTTP requests and DOM APIs"
+      ]
     }
   ],
   "education": [
