@@ -18,6 +18,7 @@
   "scripts": {
     "start": "resume serve",
     "test": "resume test",
-    "help": "resume --help"
+    "help": "resume --help",
+    "init": "resume init"
   }
 }
