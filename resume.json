@@ -8,10 +8,15 @@
       "countryCode": "US",
       "region": "Florida"
     },
-    "profiles": {
-      "github": "khalifenizar",
-      "twitter": "khalifenizar"
-    }
+    "profiles": [
+      {
+        "network": "twitter",
+        "username": "khalifenizar"
+      }, {
+        "network": "github",
+        "username": "khalifenizar"
+      }
+    ]
   },
   "education": [
     {
