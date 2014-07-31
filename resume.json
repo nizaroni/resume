@@ -56,5 +56,9 @@
         "Listening"
       ]
     }
-  ]
+  ],
+  "languages": [{
+    "language": "Spanish",
+    "fluency": "Native"
+  }]
 }
