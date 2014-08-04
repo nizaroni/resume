@@ -19,6 +19,7 @@
     "start": "resume serve",
     "test": "resume test",
     "help": "resume --help",
-    "init": "resume init"
+    "init": "resume init",
+    "publish": "resume publish"
   }
 }
