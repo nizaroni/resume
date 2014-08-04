@@ -101,8 +101,13 @@
       ]
     }
   ],
-  "languages": [{
-    "language": "Spanish",
-    "fluency": "Native"
-  }]
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    }, {
+      "language": "Spanish",
+      "fluency": "Native"
+    }
+  ]
 }
