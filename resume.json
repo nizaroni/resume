@@ -11,11 +11,13 @@
     },
     "profiles": [
       {
-        "network": "twitter",
-        "username": "khalifenizar"
+        "network": "Twitter",
+        "username": "khalifenizar",
+        "url": "https://twitter.com/khalifenizar"
       }, {
-        "network": "github",
-        "username": "khalifenizar"
+        "network": "GitHub",
+        "username": "khalifenizar",
+        "url": "https://github.com/khalifenizar"
       }
     ]
   },
