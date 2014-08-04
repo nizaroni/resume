@@ -59,7 +59,7 @@
       "highlights": [
         "Developed voting system for student body council",
         "Developed public campus crime log that is still in use today (http://uprrp.edu/crimelog/)",
-        "First experiments with raw browser HTTP requests and DOM APIs"
+        "First (painful) experiments with raw browser HTTP requests and DOM APIs"
       ]
     }
   ],
