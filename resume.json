@@ -39,7 +39,10 @@
       "website": "http://www.linkedin.com/company/kolapse-interactive",
       "startDate": "2011-01-24",
       "endDate": "2011-03-25",
-      "summary": ""
+      "summary": "Kolapse was a small Web development shop in Puerto Rico. There I developed Web applications for clients using PHP (with CodeIgniter or raw PHP), MySQL and JavaScript on the browser. It was at Kolapse that I experimented with social network integrations for the first time. I worked there until they were acquired by Nobox.",
+      "highlights": [
+        "Introduced version control (Git) into the team's workflow"
+      ]
     }, {
       "company": "ARBIMON",
       "position": "iOS developer / Research assistant",
