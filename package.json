@@ -20,6 +20,7 @@
     "test": "resume test",
     "help": "resume --help",
     "init": "resume init",
+    "login": "resume login",
     "publish": "resume publish"
   }
 }
