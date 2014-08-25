@@ -21,6 +21,7 @@
     "help": "resume --help",
     "init": "resume init",
     "login": "resume login",
-    "publish": "resume publish"
+    "publish": "resume publish",
+    "export": "resume export"
   }
 }
