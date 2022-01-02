@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "Nizar Khalife Iglesias",
+    "name": "Nizar Khalife",
     "label": "Software Engineer & Educator",
-    "email": "khalifenizar@gmail.com",
-    "summary": "Puerto Rican senior software engineer and educator with over 10 years of industry experience. I'm mostly interested in JavaScript, but have used many other languages. My passion is teaching people about computer science. I try to practice kindness in everything I do. A joke or two can't hurt either.",
+    "email": "k.halife.n.izar@gmail.com",
+    "url": "https://nizaroni.pizza",
+    "summary": "Puerto Rican senior software engineer and educator with over 15 years of industry experience. I'm mostly interested in JavaScript, but have used many other languages. My passion is teaching people about computer science. I try to practice kindness in everything I do. A joke or two can't hurt either.",
     "location": {
-      "city": "Miami",
-      "countryCode": "US",
-      "region": "Florida"
+      "city": "Paris",
+      "countryCode": "FR"
     },
     "profiles": [
       {
