@@ -4,16 +4,16 @@
   "version": "0.0.0",
   "author": "Nizar Khalife Iglesias <khalifenizar@gmail.com>",
   "bugs": {
-    "url": "https://github.com/khalifenizar/resume/issues"
+    "url": "https://github.com/nizaroni/resume/issues"
   },
   "dependencies": {
     "resume-cli": "^0.3.2"
   },
-  "homepage": "https://github.com/khalifenizar/resume",
+  "homepage": "https://github.com/nizaroni/resume",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/khalifenizar/resume.git"
+    "url": "https://github.com/nizaroni/resume.git"
   },
   "scripts": {
     "start": "resume serve",
