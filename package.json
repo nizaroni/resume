@@ -7,7 +7,7 @@
     "url": "https://github.com/nizaroni/resume/issues"
   },
   "dependencies": {
-    "resume-cli": "^0.3.2"
+    "resume-cli": "^0.4.19"
   },
   "homepage": "https://github.com/nizaroni/resume",
   "license": "ISC",
@@ -17,11 +17,12 @@
   },
   "scripts": {
     "start": "resume serve",
-    "test": "resume test",
     "help": "resume --help",
     "init": "resume init",
     "login": "resume login",
-    "publish": "resume publish",
-    "export": "resume export"
+    "settings": "resume settings",
+    "test": "resume test",
+    "export": "resume export",
+    "publish": "resume publish"
   }
 }
