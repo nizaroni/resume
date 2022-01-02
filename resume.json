@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Nizar Khalife Iglesias",
-    "label": "Web developer",
+    "label": "Software Engineer & Educator",
     "email": "khalifenizar@gmail.com",
-    "summary": "My name is Nizar and I'm a Web developer. I write software for the server, command-line and browser. I also help organize a JavaScript meetup in South Florida. I try to be polite, funny and empathetic.",
+    "summary": "Puerto Rican senior software engineer and educator with over 10 years of industry experience. I'm mostly interested in JavaScript, but have used many other languages. My passion is teaching people about computer science. I try to practice kindness in everything I do. A joke or two can't hurt either.",
     "location": {
       "city": "Miami",
       "countryCode": "US",
@@ -12,40 +12,45 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "khalifenizar",
-        "url": "https://twitter.com/khalifenizar"
+        "username": "nizaroni",
+        "url": "https://twitter.com/nizaroni"
       }, {
         "network": "GitHub",
-        "username": "khalifenizar",
-        "url": "https://github.com/khalifenizar"
+        "username": "nizaroni",
+        "url": "https://github.com/nizaroni"
       }
     ]
   },
   "work": [
     {
       "company": "Ironhack",
-      "position": "Teacher",
-      "website": "http://ironhack.com",
-      "startDate": "2014-10-27"
+      "position": "Lead Instructor",
+      "website": "https://ironhack.com",
+      "startDate": "2014-10-27",
+      "summary": "Ironhack is an international school that provides intensive courses in tech skills. As Lead Instructor, I teach Web development (HTML, CSS and JavaScript) to beginners looking to enter the tech industry. Between courses, I work on improving the curriculum that's used by all our campuses. I also do speaking engagements as a representative of Ironhack.",
+      "highlights": [
+        "Personally trained over 150 students so far",
+        "Helped transition from Ruby, Ruby on Rails and PostgreSQL to Angular, Node.js, Express and MongoDB curriculum"
+      ]
     }, {
       "company": "Freelance",
-      "position": "Web developer",
+      "position": "Software Engineer",
       "startDate": "2014-08-09",
-      "summary": "I take on freelance Web development projects on a contract basis. I have a bias towards Node.js and JavaScript work."
+      "summary": "I take on freelance Web development projects on a contract basis. I prefer to work with JavaScript in any of its forms."
     }, {
       "company": "Nobox",
-      "position": "Web developer",
-      "website": "http://nobox.com",
+      "position": "Software Engineer",
+      "website": "https://nobox.com",
       "startDate": "2011-03-28",
       "endDate": "2014-08-08",
       "summary": "In this digital marketing agency, I architected and developed Web applications and services (usually with heavy social network integrations). Learned and used various technology stacks along the way: Node.js, Python (Django), PHP (CodeIgniter, Symfony, Laravel), Redis, MongoDB, MySQL and PostgreSQL. Also wrote a ton of browser JavaScript. Most of the time I was the project lead but I also worked often as part of a team. Additionally, I engaged certain clients directly and enjoyed a friendly relationship with them. It was a very fast paced and intensive learning experience.",
       "highlights": [
-        "Developed over a dozen Web projects",
+        "Developed over a dozen production Web projects",
         "Worked with clients such as Samsung, Mozilla, PlayStation and Discovery"
       ]
     }, {
       "company": "Kolapse",
-      "position": "Web developer",
+      "position": "Web Developer",
       "website": "http://www.linkedin.com/company/kolapse-interactive",
       "startDate": "2011-01-24",
       "endDate": "2011-03-25",
@@ -54,12 +59,12 @@
         "Introduced version control (Git) into the team's workflow"
       ]
     }, {
-      "company": "ARBIMON",
-      "position": "iOS developer / Research assistant",
-      "website": "http://arbimon.com",
+      "company": "Sieve Analytics",
+      "position": "iOS Developer & Research Assistant",
+      "website": "https://www.sieve-analytics.com/",
       "startDate": "2009-01-17",
       "endDate": "2010-10-19",
-      "summary": "Designed and developed an iOS app that enabled the use of iPod touch devices as low-power recorders that capture audio on a configurable schedule. The app then sends the recordings to a server via antenna for audio analysis. As a research assistant I also supported my colleagues in solving problems in other areas of the project such as databases, version control, server scripting and configuration.",
+      "summary": "Formerly known as ARBIMON, Sieve Analytics is an acoustic monitoring project. Designed and developed an iOS app that enabled the use of iPod touch devices as low-power recorders that capture audio on a configurable schedule. The app then sends the recordings to a server via antenna for audio analysis. As a research assistant I also supported my colleagues in solving problems in other areas of the project such as databases, version control, server scripting and configuration.",
       "highlights": [
         "Developed an iOS app that enabled recording of animals in the wild",
         "Over 1,000,000 recordings gathered",
@@ -68,8 +73,8 @@
       ]
     }, {
       "company": "University of Puerto Rico",
-      "position": "Web developer / Webmaster",
-      "website": "http://www.uprrp.edu/dtaa/",
+      "position": "Web Developer & Webmaster",
+      "website": "http://dtaa.uprrp.edu",
       "startDate": "2007-07-01",
       "endDate": "2008-12-18",
       "summary": "Added and edited content in the university's Web site. Developed my first two real Web applications in a voting system for student council elections and a public campus crime log (both using PHP, MySQL and browser JavaScript).",
@@ -86,35 +91,52 @@
       "startDate": "2004-08-01",
       "endDate": "2010-06-30",
       "area": "Computer Science",
-      "studyType": "Bachelor"
+      "studyType": "Bachelor's Degree"
     }
   ],
   "skills": [
     {
-      "name": "Web development",
-      "level": "Expert",
+      "name": "Front End Web Development",
       "keywords": [
-        "Git",
-        "JavaScript (Node.js & browser)",
+        "JavaScript",
+        "Angular",
+        "React",
+        "Build Tools",
+        "HTML",
+        "CSS"
+      ]
+    }, {
+      "name": "Back End Web Development",
+      "keywords": [
+        "Node.js",
+        "Ruby",
+        "PHP",
         "Python",
-        "PHP"
+        "Databases",
+        "Deployment"
       ]
     }, {
-      "name": "Databases",
+      "name": "Developer Tools",
       "keywords": [
-        "Redis",
-        "MongoDB",
-        "PostgreSQL",
-        "MySQL"
+        "Terminal",
+        "Git",
+        "GitHub",
+        "Browser Developer Tools",
+        "Editors and Plugins"
       ]
     }, {
-      "name": "Communication",
+      "name": "Teaching",
       "keywords": [
-        "Courtesy",
+        "Patience",
         "Empathy",
-        "Humor",
-        "Clarity",
-        "Listening"
+        "Curriculum Development"
+      ]
+    }, {
+      "name": "Public Speaking",
+      "keywords": [
+        "Talks",
+        "Events",
+        "Workshops"
       ]
     }
   ],
