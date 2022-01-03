@@ -16,13 +16,8 @@
     "url": "https://github.com/nizaroni/resume.git"
   },
   "scripts": {
-    "start": "resume serve",
-    "help": "resume --help",
-    "init": "resume init",
-    "login": "resume login",
-    "settings": "resume settings",
-    "test": "resume test",
-    "export": "resume export",
-    "publish": "resume publish"
+    "start": "resume serve --theme onepage",
+    "resume": "resume",
+    "export": "resume export public/cv.pdf"
   }
 }
