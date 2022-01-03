@@ -24,13 +24,27 @@
   "work": [
     {
       "company": "Ironhack",
-      "position": "Lead Instructor",
+      "position": "Education Lead",
+      "website": "https://ironhack.com",
+      "startDate": "2019-03-25",
+      "summary": "Within Ironhack, I transitioned to working for the central Education Team as Education Lead. In this role, I've acted as the manager for the people who help make our curricula the best they can possibly be. I've also participated in hiring people above and below me to achieve greater success for our instructors and students. My long tenure at Ironhack has given me unique perspective to help the team tackle problems.",
+      "highlights": [
+        "Grew the central Education Team from 3 people to 9",
+        "Planned the first Education Summit with instructors from all campuses",
+        "Supported the team through 4 leadership changes"
+      ]
+    }, {
+      "company": "Ironhack",
+      "position": "WebDev Lead Instructor",
       "website": "https://ironhack.com",
       "startDate": "2014-10-27",
-      "summary": "Ironhack is an international school that provides intensive courses in tech skills. As Lead Instructor, I teach Web development (HTML, CSS and JavaScript) to beginners looking to enter the tech industry. Between courses, I work on improving the curriculum that's used by all our campuses. I also do speaking engagements as a representative of Ironhack.",
+      "endDate": "2019-03-22",
+      "summary": "Ironhack is an international school that provides intensive courses in tech skills. As Lead Instructor, I taught Web development (HTML, CSS and JavaScript) to beginners looking to enter the tech industry. Between courses, I worked on improving the curriculum that's used by all our campuses. I also did speaking engagements as a representative of Ironhack.",
       "highlights": [
-        "Personally trained over 150 students so far",
-        "Helped transition from Ruby, Ruby on Rails and PostgreSQL to Angular, Node.js, Express and MongoDB curriculum"
+        "Taught 17 full-time WebDev bootcamps",
+        "Personally trained over 200 students",
+        "Helped transition from Ruby on Rails curriculum to Node.js and Angular",
+        "Created training materials for new WebDev instructors"
       ]
     }, {
       "company": "Freelance",
