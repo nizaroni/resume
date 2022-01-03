@@ -96,23 +96,24 @@
   ],
   "skills": [
     {
-      "name": "Front End Web Development",
+      "name": "Front-end Web Development",
       "keywords": [
         "JavaScript",
+        "HTML",
+        "CSS",
         "Angular",
         "React",
-        "Build Tools",
-        "HTML",
-        "CSS"
+        "Tooling"
       ]
     }, {
-      "name": "Back End Web Development",
+      "name": "Back-end Web Development",
       "keywords": [
         "Node.js",
         "Ruby",
         "PHP",
         "Python",
         "Databases",
+        "API Design",
         "Deployment"
       ]
     }, {
@@ -127,9 +128,12 @@
     }, {
       "name": "Teaching",
       "keywords": [
+        "Curriculum Development",
+        "Lesson Planning",
+        "Classroom Management",
+        "Learner Engagement",
         "Patience",
-        "Empathy",
-        "Curriculum Development"
+        "Empathy"
       ]
     }, {
       "name": "Public Speaking",
@@ -147,6 +151,9 @@
     }, {
       "language": "Spanish",
       "fluency": "Native"
+    }, {
+      "language": "French",
+      "fluency": "Intermediate (B1)"
     }
   ]
 }
